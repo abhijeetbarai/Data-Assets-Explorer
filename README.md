@@ -80,7 +80,7 @@ python main.py
 ## Test Results
 
 ```bash
-Ran 3 tests in 0.014s
+Run 3 tests in 0.014s
 
 OK
 ```
